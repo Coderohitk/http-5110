@@ -10,7 +10,7 @@ This course will introduce students to the roles and responsibilities of a Web D
 https://www.w3schools.com/whatis/
 
 # Images
-![Web Development Overview](.png)
+![Web Development Overview](Intro.png)
 
 ***Important Notice:*** This repository contains my weekly work for this course. Familiarizing yourself with web development concepts is essential for anyone looking to pursue a career in this field.
 
